@@ -28,4 +28,6 @@ LoginTest
     #click sumbit
     #verify succefull login
     close my browser
+    Close All Browsers
+    
     
